@@ -1,4 +1,4 @@
-# When in Doubt, Ask: Generating Answerable and UnanswerableQuestions, Unsupervised
+# When in Doubt, Ask: Generating Answerable and Unanswerable Questions, Unsupervised
 This repo contains the scripts for generating synthetic unanswerable questions. 
 
 The repo contains the following scripts:

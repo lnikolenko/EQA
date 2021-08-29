@@ -1,5 +1,5 @@
 # When in Doubt, Ask: Generating Answerable and Unanswerable Questions, Unsupervised
-This repo contains the scripts for generating synthetic unanswerable questions. 
+This is the repo for [When in Doubt, Ask: Generating Answerable and Unanswerable Questions, Unsupervised](https://link.springer.com/chapter/10.1007/978-3-030-84060-0_2). It contains the scripts for generating synthetic unanswerable questions. 
 
 The repo contains the following scripts:
 
